@@ -1,0 +1,11 @@
+# Ignore OAuth config file
+src/config/oauth_config.php
+
+# Ignore Composer dependencies
+vendor/
+
+# Ignore environment files
+.env
+
+# Ignore log files
+*.log
