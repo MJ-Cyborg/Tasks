@@ -1,6 +1,9 @@
 # Ignore OAuth config file
 src/config/oauth_config.php
 
+#Ignore db configuration settings
+src\config\db.php
+
 # Ignore Composer dependencies
 vendor/
 
